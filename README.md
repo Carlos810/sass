@@ -51,6 +51,8 @@
 
 ## Import
 
+* No es necesario poner la extención del archivo
+
 ```scss
 @import 'nombreArchivo';
 ```
