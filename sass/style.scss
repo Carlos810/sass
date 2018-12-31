@@ -1,5 +1,14 @@
-$colorSection: #f9ed69;
+@import 'variables';
+@import 'header';
+
+
 
 section{
-    background: $colorSection;
+    height: 200px;
+    background: $colorDos;
+}
+
+footer{
+    height: 200px;
+    background: $colorTres;
 }

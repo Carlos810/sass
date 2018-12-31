@@ -49,4 +49,11 @@
     }
 ```
 
+## Import
+
+```scss
+@import 'nombreArchivo';
+```
+
+
 
