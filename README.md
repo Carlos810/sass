@@ -39,4 +39,14 @@
     }
 ```
 
+## Variables con SASS
+
+```scss
+    $colorSection: #f9ed69;
+
+    section{
+        background: $colorSection;
+    }
+```
+
 

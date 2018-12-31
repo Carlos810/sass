@@ -1,9 +1,5 @@
-footer{
-    background: #444;
-    h4{
-      color: red;
-      a{
-          color: blue;
-      }
-    }
+$colorSection: #f9ed69;
+
+section{
+    background: $colorSection;
 }
