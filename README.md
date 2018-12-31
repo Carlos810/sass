@@ -8,3 +8,17 @@
 ```
     sass -w sass:css
 ```
+
+## Organización de archivos
+
+```
+    footer{
+        background: #444;
+        h4{
+        color: red;
+        a{
+            color: blue;
+        }
+        }
+    }
+```
