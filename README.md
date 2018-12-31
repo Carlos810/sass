@@ -13,7 +13,7 @@
 
 ### CSS
 
-```
+```css
     footer {
     background: #444; 
     }
@@ -27,7 +27,7 @@
 
 ### SASS
 
-```
+```scss
     footer{
         background: #444;
         h4{
